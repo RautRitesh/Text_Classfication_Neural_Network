@@ -88,7 +88,7 @@ pip install tensorflow==2.12 pandas numpy scikit-learn tensorflow-hub mlxtend
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/RautRitesh/Text_Classfication_Neural_Network
+git clone https://github.com/RautRitesh/Text_Classfication_Neural_Network.git
 ```
 
 2. **Ensure you have the data:**
